@@ -2,10 +2,12 @@
 Console.WriteLine("Hello, World!3");
 
 
-
 //task3
 //Console.WriteLine("Вшьф!!!");
 //Console.WriteLine("Вшьф!!!");
 //Console.WriteLine("Вшьф!!!");
 //Console.WriteLine("Вшьф!!!");
 //Console.WriteLine("Вшьф!!!");
+
+
+Console.WriteLine("aaaa");
